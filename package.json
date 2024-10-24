@@ -1,6 +1,6 @@
 {
   "name": "tailwind-mask",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Tailwind CSS class obfuscator",
   "main": "index.js",
   "types": "index.d.ts",
